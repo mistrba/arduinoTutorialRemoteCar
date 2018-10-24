@@ -38,3 +38,5 @@ Accelelometer function is under developing, use with attention!
 
 Link app :https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
 
+check this: https://www.instructables.com/id/Arduino-Bluetooth-RC-Car-Android-Controlled/
+
