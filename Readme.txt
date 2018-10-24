@@ -24,8 +24,9 @@ For direction motor (front side) the positive polarity cable will be that moves 
 
 Step 2: Breadboard Schematic
 
-Step 3: Code
+Check image Breadboard Schematic.jpg and you do it.
 
+Step 3: Code
 Download and open file with Arduino ide. Read every line of code (+comments) to understand how it's working and then upload it to your Arduino uno board!
 (for programming arduino uno board you must disconnect first the RX & TX pins of Bluetooth module)
 
